@@ -1,2 +1,3 @@
-# projeto-faculdade-poo-java
-projeto-faculdade-poo-java
+# Projeto Faculdade
+
+Este é um projeto de exemplo para fins acadêmicos.
